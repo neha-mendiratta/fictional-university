@@ -1,0 +1,2 @@
+2017/12/16 12:45:48 [error] 38#0: *27 directory index of "/app/public/wp-content/themes/fictional-university-theme/js/" is forbidden, client: 127.0.0.1, server: site_domain, request: "GET /wp-content/themes/fictional-university-theme/js/ HTTP/1.0", host: "fictional-universirty.local"
+2017/12/16 12:48:01 [error] 38#0: *34 directory index of "/app/public/wp-content/themes/fictional-university-theme/images/" is forbidden, client: 127.0.0.1, server: site_domain, request: "GET /wp-content/themes/fictional-university-theme/images/ HTTP/1.0", host: "fictional-universirty.local"
